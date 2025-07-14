@@ -1,1 +1,1 @@
-<script>alert(1)</script>
+<script>alert("external_xss")</script>
